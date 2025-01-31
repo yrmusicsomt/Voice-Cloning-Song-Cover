@@ -1,5 +1,5 @@
 # Voice-Cloning-Song-Cover
-Welcome to the Voice Cloning (SongCover) Project! 🚀 This repository contains resources and code for generating AI-based voice covers. The project utilizes deep learning models to synthesize and modify voices for song cove
+Welcome to the Voice Cloning (SongCover) Project! 🚀 This repository contains resources and code for generating AI-based voice covers. The project utilizes deep learning models to synthesize and modify voices for song cover!
 # 📌 Features
 
 🎶 Voice Cloning: Generate AI-based covers using pre-trained models.
