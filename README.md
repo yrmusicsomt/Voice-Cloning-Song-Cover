@@ -1,5 +1,5 @@
 # Voice-Cloning-Song-Cover
-📌 Features
+#📌 Features
 
 🎶 Voice Cloning: Generate AI-based covers using pre-trained models.
 
@@ -11,15 +11,15 @@
 
 🎛 Inference Pipeline: Convert input audio to AI-generated covers.
 
-🚀 Getting Started
+#🚀 Getting Started
 
-1️⃣ Set Up Environment
+##1️⃣ Set Up Environment
 
 Install required dependencies:
 
 pip install -r requirements.txt
 
-2️⃣ Running the Notebook on Google Colab
+##2️⃣ Running the Notebook on Google Colab
 
 You can run this project directly in Google Colab:
 🔗 Open in Google Colab
@@ -36,7 +36,7 @@ https://github.com/your-username/your-repo-name
 
 Choose the relevant .ipynb file and run the cells.
 
-3️⃣ Running Locally
+##3️⃣ Running Locally
 
 To run the scripts locally, clone the repository and execute:
 
@@ -54,7 +54,7 @@ python main.py
 │── requirements.txt   # Dependencies
 │── README.md          # Project documentation
 
-❓ Need Help?
+#❓ Need Help?
 
 If you encounter any issues, feel free to create an issue.
 
